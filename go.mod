@@ -1,3 +1,3 @@
-module balltrev.dev/yougit/v2
+module balltrev.dev/yougit
 
 go 1.25.1
